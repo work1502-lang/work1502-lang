@@ -27,7 +27,7 @@ I'm a UI/UX Designer with 2 + years of experience, working as what I call a **vi
 
 ```bash
 ROLE     : UI/UX Designer · Vibe Coder
-EXP      : 2-4 years
+EXP      : 2 + years
 STACK    : Figma, Claude, ChatGPT, Lovable, Higgsfield, Vercel, Cloudflare, Supabase
 OPEN_TO  : Product Designer roles
 ```
@@ -38,7 +38,7 @@ OPEN_TO  : Product Designer roles
 
 **Design & AI Build**
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,clauden&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,chatgpt&theme=dark" />
 
 **Deploy & Infra**
 
