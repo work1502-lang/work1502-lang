@@ -28,7 +28,7 @@ I'm a UI/UX Designer with 2–4 years of experience, working as what I call a **
 ```bash
 ROLE     : UI/UX Designer · Vibe Coder
 EXP      : 2-4 years
-STACK    : Figma, Claude, ChatGPT, Antigravity, Lovable, Higgsfield, Vercel, Cloudflare, Supabase
+STACK    : Figma, Claude, ChatGPT, ChatGPT, Lovable, Higgsfield, Vercel, Cloudflare, Supabase
 OPEN_TO  : Product Designer roles
 ```
 
