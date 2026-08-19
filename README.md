@@ -162,34 +162,11 @@ currently:
 
 <br>
 
-## `$ open trophy-case/`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=work1502-lang&theme=flat&no-frame=true&column=7&title-color=FF6B35&icon-color=FFB627&text-color=F4F4F9&background=0D1117" />
-
-</div>
-
-<br>
-
 ## `$ plot activity-graph.svg`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=work1502-lang&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFB627&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-## `$ ./snake.sh --dark`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/work1502-lang/work1502-lang/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/work1502-lang/work1502-lang/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
 
