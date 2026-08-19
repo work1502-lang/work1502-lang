@@ -38,7 +38,7 @@ OPEN_TO  : Product Designer roles
 
 **Design & AI Build**
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,typescript,javascript,css,react&theme=dark" />
 
 **Deploy & Infra**
 
