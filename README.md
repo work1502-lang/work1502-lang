@@ -38,13 +38,13 @@ OPEN_TO  : Product Designer roles
 
 **Design & AI Build**
 
-<img src="https://skillicons.dev/icons?i=figma,notion,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,notion,git,github&theme=dark" />
 
 **Deploy & Infra**
 
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,supabase&theme=dark" />
 
-**AI Layer** — Claude · ChatGPT · Higgsfield · Antigravity · Lovable
+**AI Layer** — Claude · ChatGPT · Higgsfield · VS code · Lovable
 *(reasoning + generation + vibe-code builders + AI media, chained into one pipeline)*
 
 <br>
@@ -146,19 +146,6 @@ currently:
   open_to:
     - Product Designer roles
 ```
-
-<br>
-
-## `$ ./run-analytics.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=work1502-lang&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FFB627&text_color=F4F4F9&bg_color=0D1117" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=work1502-lang&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FFB627&currStreakLabel=FF6B35" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=work1502-lang&layout=compact&theme=transparent&hide_border=true&title_color=FF6B35&text_color=F4F4F9&bg_color=0D1117" width="49%" />
-
-</div>
 
 <br>
 
