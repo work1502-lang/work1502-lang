@@ -21,7 +21,7 @@
 
 <br>
 
-## `$ cat about.md`
+## `$ about.me`
 
 I'm a UI/UX Designer with 2–4 years of experience, working as what I call a **vibe coder** — I design real products in Figma and ship them as working software using AI tools instead of writing code line-by-line. My "stack" is really a pipeline: AI models handle the logic, AI builders handle deployment, and cloud infra handles scale. Based in India, building for a global audience, focused on shipping fast — idea → design → live product, powered by AI end-to-end.
 
@@ -34,7 +34,7 @@ OPEN_TO  : Product Designer roles
 
 <br>
 
-## `$ ls tech-stack/`
+## `$ my tech-stack/`
 
 **Design & AI Build**
 
@@ -59,7 +59,7 @@ OPEN_TO  : Product Designer roles
 
 <br>
 
-## `$ cat expertise.table`
+## `$ expertise.table`
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
